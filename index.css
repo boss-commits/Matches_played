@@ -7,6 +7,7 @@ body {
 }
 .Countdown{
     width: 500px;
+    margin: 50px auto auto 0px;
     background-color: greenyellow;
     border-radius: 10px;
     border-bottom: 5px solid green;
