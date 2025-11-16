@@ -8,7 +8,7 @@ body {
 .Countdown{
     width: 500px;
     margin: 50px auto 0px auto;
-    background-color: greenyellow;
+    background-color: lightskyblue;
     border-radius: 10px;
     border-bottom: 5px solid green;
 }
